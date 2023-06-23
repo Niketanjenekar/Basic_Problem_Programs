@@ -46,9 +46,14 @@
     <Compile Include="Area_Of_Circle.cs" />
     <Compile Include="Arithematic_Operation.cs" />
     <Compile Include="Days_Conversion.cs" />
+    <Compile Include="Even_Odd_Program.cs" />
+    <Compile Include="Largest_Number.cs" />
+    <Compile Include="Palindrome_or_Not.cs" />
+    <Compile Include="Positive_or_Not.cs" />
     <Compile Include="Printing_Values.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reverse_a_Number.cs" />
     <Compile Include="Size_Of_DataTypes.cs" />
     <Compile Include="Swap_Values.cs" />
   </ItemGroup>

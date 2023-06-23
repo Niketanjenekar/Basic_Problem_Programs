@@ -12,7 +12,7 @@ namespace Basic_programs
         {
             Console.WriteLine("Converting Days to Years, Months and Weeks");
 
-            int Days, Years, Weeks, Months;
+            int Years, Weeks, Months;
 
             Years = (num / 365);
             
